@@ -1,0 +1,22 @@
+{
+  "name": "frontent-project-lvl1",
+  "version": "1.0.0",
+  "description": "Проект номер 1 в обучении на сайте hexlet.io",
+  "main": "index.js",
+  "bin": {
+    "frontent-project-lvl1": "brain-games.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-p-hello/frontend-project-lvl1.git"
+  },
+  "author": "Igor Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-p-hello/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/i-p-hello/frontend-project-lvl1#readme"
+}
